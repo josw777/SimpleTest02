@@ -1,2 +1,1 @@
-test02.txt 파일 user1 update중
-
+test02.txt user2 두번째 update
